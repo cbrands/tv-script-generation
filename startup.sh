@@ -1,0 +1,1 @@
+floyd run --gpu --env keras --mode jupyter
